@@ -1,0 +1,5 @@
+請更改synth.py的"所有"路徑以符合各自情況
+image目錄為背景圖片目錄，可以自己上網抓，若需大量可以從imagenet下載
+fit_video_chinese_font目錄是預設字體，根據需求更換
+程式會在一區間隨機給予字體大小，若計算行超過圖片則會跳過產生mistake.txt
+test_syn和output是範例文字和範例合成圖片，根據需求自行調整程式
